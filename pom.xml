@@ -18,7 +18,7 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
-		<!--PostGreSQL dependency-->
+		<!--PostGreSQL-->
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
