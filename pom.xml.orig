@@ -11,7 +11,11 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>DogmanagementSystem</artifactId>
+<<<<<<< HEAD
 	<version>0.0.3-SNAPSHOT</version><!--changed-->
+=======
+	<version>0.0.2-SNAPSHOT</version>
+>>>>>>> 239299f7441446b5068d78a1f5f726261e6c9113
 	<name>DogmanagementSystem</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
